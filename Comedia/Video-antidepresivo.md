@@ -5,4 +5,4 @@ metaDescription: "ad"
 ---
 
 # Chile 7-0 México - Relatos Mexicanos
-<Youtube youTubeId="jQTIp3j9CAk" />
+<YouTube youTubeId="jQTIp3j9CAk" />
